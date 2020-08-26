@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">体型診断アプリ</string>
+    <string name="tv_lenght">身長:</string>
+    <string name="cm">cm</string>
+    <string name="kg">kg</string>
+    <string name="tv_weight">体重:</string>
+    <string name="tv_sex">性別</string>
+    <string name="rbMale">男</string>
+    <string name="rbFemale">女</string>
+    <string name="tv_age">年齢</string>
+    <string name="btn_result">結果を見る</string>
+    <string name="tv_result">診断結果</string>
+    <string name="age">歳</string>
+
+    <string name="tv_desc">あなたの体型は…</string>
+    <string name="tv_figureTypeA">やせ型</string>
+    <string name="tv_figureTypeB">ふつう型</string>
+    <string name="tv_figureTypeC">ぽっちゃり型</string>
+    <string name="tv_desc2">です。</string>
+
+    <string name="tv_userBMI">あなたのBMI：</string>
+    <string name="tv_aveBMI">の平均BMI：</string>
+    <string name="tv_explainBMI">BMIって？</string>
+    <string name="BMIexplain">
+        BMI（Body Mass Index）はボディマス指数と呼ばれ、体重と身長から算出される肥満度を表す体格指数です。\n
+        子供には別の指数が存在しますが、成人ではBMIが国際的な指標として用いられています。
+        健康を維持するためは日頃からBMIを把握することが重要です。\n
+        BMI（肥満指数）は体重（kg）を身長（m）の二乗で割って算出されています。\n\n
+        BMI値＝体重（kg）÷（身長m×身長m）</string>
+    <string name="tv_graph">年齢/男女別BMI表</string>
+
+    <string name="btnBack">計算画面に戻る</string>
+</resources>
